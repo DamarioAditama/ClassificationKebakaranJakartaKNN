@@ -1,0 +1,181 @@
+tahun,wilayah,penyebab,jumlah
+2016,Jakarta Barat,GAS,27
+2016,Jakarta Barat,LAINNYA,20
+2016,Jakarta Barat,LILIN,3
+2016,Jakarta Barat,LISTRIK,212
+2016,Jakarta Barat,MEMBAKAR SAMPAH,14
+2016,Jakarta Barat,ROKOK,7
+2016,Jakarta Pusat,GAS,16
+2016,Jakarta Pusat,LAINNYA,13
+2016,Jakarta Pusat,LILIN,1
+2016,Jakarta Pusat,LISTRIK,100
+2016,Jakarta Pusat,MEMBAKAR SAMPAH,1
+2016,Jakarta Pusat,ROKOK,10
+2016,Jakarta Selatan,GAS,26
+2016,Jakarta Selatan,LAINNYA,12
+2016,Jakarta Selatan,LILIN,2
+2016,Jakarta Selatan,LISTRIK,192
+2016,Jakarta Selatan,MEMBAKAR SAMPAH,8
+2016,Jakarta Selatan,ROKOK,1
+2016,Jakarta Timur,GAS,22
+2016,Jakarta Timur,LAINNYA,32
+2016,Jakarta Timur,LILIN,1
+2016,Jakarta Timur,LISTRIK,183
+2016,Jakarta Timur,MEMBAKAR SAMPAH,6
+2016,Jakarta Timur,ROKOK,2
+2016,Jakarta Utara,GAS,19
+2016,Jakarta Utara,LAINNYA,20
+2016,Jakarta Utara,LILIN,0
+2016,Jakarta Utara,LISTRIK,185
+2016,Jakarta Utara,MEMBAKAR SAMPAH,23
+2016,Jakarta Utara,ROKOK,10
+2016,Kepulauan Seribu,GAS,0
+2016,Kepulauan Seribu,LAINNYA,2
+2016,Kepulauan Seribu,LILIN,0
+2016,Kepulauan Seribu,LISTRIK,1
+2016,Kepulauan Seribu,MEMBAKAR SAMPAH,0
+2016,Kepulauan Seribu,ROKOK,0
+2017,Jakarta Barat,GAS,27
+2017,Jakarta Barat,LAINNYA,39
+2017,Jakarta Barat,LILIN,2
+2017,Jakarta Barat,LISTRIK,216
+2017,Jakarta Barat,MEMBAKAR SAMPAH,34
+2017,Jakarta Barat,ROKOK,7
+2017,Jakarta Pusat,GAS,29
+2017,Jakarta Pusat,LAINNYA,23
+2017,Jakarta Pusat,LILIN,0
+2017,Jakarta Pusat,LISTRIK,123
+2017,Jakarta Pusat,MEMBAKAR SAMPAH,7
+2017,Jakarta Pusat,ROKOK,7
+2017,Jakarta Selatan,GAS,45
+2017,Jakarta Selatan,LAINNYA,31
+2017,Jakarta Selatan,LILIN,0
+2017,Jakarta Selatan,LISTRIK,213
+2017,Jakarta Selatan,MEMBAKAR SAMPAH,20
+2017,Jakarta Selatan,ROKOK,7
+2017,Jakarta Timur,GAS,55
+2017,Jakarta Timur,LAINNYA,48
+2017,Jakarta Timur,LILIN,1
+2017,Jakarta Timur,LISTRIK,223
+2017,Jakarta Timur,MEMBAKAR SAMPAH,26
+2017,Jakarta Timur,ROKOK,7
+2017,Jakarta Utara,GAS,27
+2017,Jakarta Utara,LAINNYA,49
+2017,Jakarta Utara,LILIN,2
+2017,Jakarta Utara,LISTRIK,150
+2017,Jakarta Utara,MEMBAKAR SAMPAH,33
+2017,Jakarta Utara,ROKOK,4
+2017,Kepulauan Seribu,GAS,2
+2017,Kepulauan Seribu,LAINNYA,6
+2017,Kepulauan Seribu,LILIN,0
+2017,Kepulauan Seribu,LISTRIK,2
+2017,Kepulauan Seribu,MEMBAKAR SAMPAH,4
+2017,Kepulauan Seribu,ROKOK,2
+2018,Jakarta Barat,GAS,29
+2018,Jakarta Barat,LAINNYA,36
+2018,Jakarta Barat,LILIN,2
+2018,Jakarta Barat,LISTRIK,209
+2018,Jakarta Barat,MEMBAKAR SAMPAH,70
+2018,Jakarta Barat,ROKOK,15
+2018,Jakarta Pusat,GAS,31
+2018,Jakarta Pusat,LAINNYA,21
+2018,Jakarta Pusat,LILIN,0
+2018,Jakarta Pusat,LISTRIK,154
+2018,Jakarta Pusat,MEMBAKAR SAMPAH,25
+2018,Jakarta Pusat,ROKOK,9
+2018,Jakarta Selatan,GAS,46
+2018,Jakarta Selatan,LAINNYA,36
+2018,Jakarta Selatan,LILIN,1
+2018,Jakarta Selatan,LISTRIK,277
+2018,Jakarta Selatan,MEMBAKAR SAMPAH,37
+2018,Jakarta Selatan,ROKOK,16
+2018,Jakarta Timur,GAS,48
+2018,Jakarta Timur,LAINNYA,56
+2018,Jakarta Timur,LILIN,2
+2018,Jakarta Timur,LISTRIK,266
+2018,Jakarta Timur,MEMBAKAR SAMPAH,61
+2018,Jakarta Timur,ROKOK,20
+2018,Jakarta Utara,GAS,23
+2018,Jakarta Utara,LAINNYA,30
+2018,Jakarta Utara,LILIN,1
+2018,Jakarta Utara,LISTRIK,153
+2018,Jakarta Utara,MEMBAKAR SAMPAH,46
+2018,Jakarta Utara,ROKOK,11
+2018,Kepulauan Seribu,GAS,4
+2018,Kepulauan Seribu,LAINNYA,2
+2018,Kepulauan Seribu,LILIN,0
+2018,Kepulauan Seribu,LISTRIK,2
+2018,Kepulauan Seribu,MEMBAKAR SAMPAH,8
+2018,Kepulauan Seribu,ROKOK,4
+2019,Jakarta Barat,GAS,33
+2019,Jakarta Barat,LAINNYA,46
+2019,Jakarta Barat,LILIN,6
+2019,Jakarta Barat,LISTRIK,211
+2019,Jakarta Barat,MEMBAKAR SAMPAH,98
+2019,Jakarta Barat,ROKOK,22
+2019,Jakarta Pusat,GAS,24
+2019,Jakarta Pusat,LAINNYA,28
+2019,Jakarta Pusat,LILIN,4
+2019,Jakarta Pusat,LISTRIK,182
+2019,Jakarta Pusat,MEMBAKAR SAMPAH,22
+2019,Jakarta Pusat,ROKOK,14
+2019,Jakarta Selatan,GAS,65
+2019,Jakarta Selatan,LAINNYA,54
+2019,Jakarta Selatan,LILIN,6
+2019,Jakarta Selatan,LISTRIK,325
+2019,Jakarta Selatan,MEMBAKAR SAMPAH,73
+2019,Jakarta Selatan,ROKOK,20
+2019,Jakarta Timur,GAS,56
+2019,Jakarta Timur,LAINNYA,71
+2019,Jakarta Timur,LILIN,7
+2019,Jakarta Timur,LISTRIK,294
+2019,Jakarta Timur,MEMBAKAR SAMPAH,103
+2019,Jakarta Timur,ROKOK,46
+2019,Jakarta Utara,GAS,19
+2019,Jakarta Utara,LAINNYA,32
+2019,Jakarta Utara,LILIN,6
+2019,Jakarta Utara,LISTRIK,182
+2019,Jakarta Utara,MEMBAKAR SAMPAH,75
+2019,Jakarta Utara,ROKOK,23
+2019,Kepulauan Seribu,GAS,3
+2019,Kepulauan Seribu,LAINNYA,3
+2019,Kepulauan Seribu,LILIN,0
+2019,Kepulauan Seribu,LISTRIK,8
+2019,Kepulauan Seribu,MEMBAKAR SAMPAH,13
+2019,Kepulauan Seribu,ROKOK,9
+2020,Jakarta Barat,GAS,32
+2020,Jakarta Barat,LAINNYA,53
+2020,Jakarta Barat,LILIN,1
+2020,Jakarta Barat,LISTRIK,201
+2020,Jakarta Barat,MEMBAKAR SAMPAH,36
+2020,Jakarta Barat,ROKOK,10
+2020,Jakarta Pusat,GAS,21
+2020,Jakarta Pusat,LAINNYA,19
+2020,Jakarta Pusat,LILIN,3
+2020,Jakarta Pusat,LISTRIK,108
+2020,Jakarta Pusat,MEMBAKAR SAMPAH,8
+2020,Jakarta Pusat,ROKOK,1
+2020,Jakarta Selatan,GAS,57
+2020,Jakarta Selatan,LAINNYA,55
+2020,Jakarta Selatan,LILIN,0
+2020,Jakarta Selatan,LISTRIK,266
+2020,Jakarta Selatan,MEMBAKAR SAMPAH,14
+2020,Jakarta Selatan,ROKOK,5
+2020,Jakarta Timur,GAS,32
+2020,Jakarta Timur,LAINNYA,64
+2020,Jakarta Timur,LILIN,0
+2020,Jakarta Timur,LISTRIK,202
+2020,Jakarta Timur,MEMBAKAR SAMPAH,38
+2020,Jakarta Timur,ROKOK,13
+2020,Jakarta Utara,GAS,33
+2020,Jakarta Utara,LAINNYA,29
+2020,Jakarta Utara,LILIN,3
+2020,Jakarta Utara,LISTRIK,160
+2020,Jakarta Utara,MEMBAKAR SAMPAH,27
+2020,Jakarta Utara,ROKOK,5
+2020,Kepulauan Seribu,GAS,5
+2020,Kepulauan Seribu,LAINNYA,1
+2020,Kepulauan Seribu,LILIN,0
+2020,Kepulauan Seribu,LISTRIK,1
+2020,Kepulauan Seribu,MEMBAKAR SAMPAH,0
+2020,Kepulauan Seribu,ROKOK,2
